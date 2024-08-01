@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+body {
+  cursor: url("../../public/cursor.svg"), auto;
+  
+}
+
+button {
+  cursor: url("../../public/cursor.svg"), auto;
+}
